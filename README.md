@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # RecipeProject
 Webpage that allows you to view, upload, and edit to a recipe list!
+This took me roughly 5 hours.
+I wish to get the edit function working in the future.
 =======
 # sv
 
